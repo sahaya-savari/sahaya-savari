@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Sahaya Savari  
 
-**AI & Data Analytics Student | Aspiring AI Engineer | Tech Enthusiast from India 🇮🇳**
+**AI & Data Analytics Student | Aspiring AI Enthusiast | Student @ St. Joseph's college,Trichy**
 
-📧 **Email:** sahayasavari@gmail.com  
+📧 **Email:** sahayasavari.info@gmail.com  
 💡 Open to collaborations, internships, and real-world projects.
 
 ---
@@ -14,17 +14,15 @@
 - 👯 **Looking to collaborate on:** AI / ML projects, Data Science, Open-Source contributions
 - 🤔 **Looking for help with:** Real-world AI use cases & research-based projects
 - 💬 **Ask me about:** Python, AI basics, Data Analysis, project ideas
-- 📫 **How to reach me:** sahayasavari@gmail.com
+- 📫 **How to reach me:** sahayasavari.info@gmail.com
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I love tech so much that I turn curiosity into code 🚀
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=technosnag&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+⭐ *Feel free to explore my repositories and collaborate with me!*
 
 ---
-⭐ *Feel free to explore my repositories and collaborate with me!*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ITZMESANTHOZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ITZ_ME_SANTHOZ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahayasavari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Itz_me_santhoz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahayasavari.info@gmail.com) 
