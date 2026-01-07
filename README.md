@@ -13,6 +13,14 @@
 
 **AI & Data Analytics Student | Aspiring AI Engineer | Student @ St. Joseph’s College, Trichy**
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3ABEFE&center=true&vCenter=true&width=800&lines=Code+is+not+just+written%2C+it%E2%80%99s+crafted.;Learning+never+stops+in+tech.;Small+steps+every+day+build+great+systems.;Curiosity+drives+innovation.;Think.+Build.+Improve."
+    alt="Typing Quotes"
+  />
+</p>
+
+
 📧 **Email:** sahayasavari.info@gmail.com  
 💡 Open to collaborations, internships, and real-world AI projects.
 
@@ -20,9 +28,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **AI & Machine Learning projects**
+- 🔭 Working on **AI & Machine Learning projects**
 - 🌱 Learning **Advanced ML, Deep Learning, Data Visualization**
-- 👯 Looking to collaborate on **AI / ML & Open Source**
+- 👯 Open to **AI / ML & Open-Source collaborations**
 - 🤔 Exploring **real-world AI use cases**
 - 💬 Ask me about **Python, AI basics, Data Analysis**
 - 😄 Pronouns: **He / Him**
@@ -34,32 +42,31 @@
 
 ---
 
-## 📬 Connect with me
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sahayasavari">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg"
-         width="46" hspace="14" />
+  <a href="https://www.linkedin.com/in/sahayasavari" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://instagram.com/_ITZ_ME_SANTHOZ">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg"
-         width="46" hspace="14" />
+  <a href="https://www.instagram.com/_ITZ_ME_SANTHOZ" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://facebook.com/ITZMESANTHOZ">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/facebook.svg"
-         width="46" hspace="14" />
+  <a href="https://www.facebook.com/ITZMESANTHOZ" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://x.com/_Itz_me_santhoz">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg"
-         width="46" hspace="14" />
+  <a href="https://x.com/_Itz_me_santhoz" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="X / Twitter"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://mail.google.com/mail/?view=cm&to=sahayasavari.info@gmail.com">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/mail.svg"
-         width="46" hspace="14" />
+  <a href="https://mail.google.com/mail/?view=cm&to=sahayasavari.info@gmail.com" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
   </a>
 </p>
 
