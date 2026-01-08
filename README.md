@@ -5,7 +5,6 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=520&lines=Hi+There%2C+I'm+Sahaya+Savari+👋;AI+%26+Data+Analytics+Student;Aspiring+AI+Engineer;Always+Learning+New+Things"
-    alt="Typing SVG"
   />
 </p>
 
