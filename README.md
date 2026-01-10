@@ -78,6 +78,7 @@
 
 ---
 
+<!-- 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=sahaya-savari&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)
@@ -86,7 +87,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaya-savari&layout=compact&theme=solarized-light)
 
----
+-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
