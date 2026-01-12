@@ -3,12 +3,13 @@
 
 <h1 align="center">💫 Hi 👋, I'm Sahaya Savari</h1>
 
-<h3 align="center">
-AI & Data Analytics Student | Aspiring AI Engineer @ St. Joseph’s College, Trichy
-</h3>
+<p align="center">
+<b>AI & Data Analytics Student</b> | Aspiring AI Engineer<br>
+St. Joseph’s College, Trichy
+</p>
 
 <p align="center">
-📧 <b>Email:</b> <a href="mailto:sahayasavari.info@gmail.com">sahayasavari.info@gmail.com</a><br>
+📧 <a href="mailto:sahayasavari.info@gmail.com">sahayasavari.info@gmail.com</a><br>
 💡 Open to internships, collaborations, and real-world AI projects
 </p>
 
@@ -16,13 +17,13 @@ AI & Data Analytics Student | Aspiring AI Engineer @ St. Joseph’s College, Tri
 
 ## 🚀 About Me
 
-- 🔭 Working on **AI, Machine Learning & Data Analytics projects**
+- 🔭 Working on **AI, Machine Learning & Data Analytics**
 - 🌱 Learning **Advanced ML, Deep Learning & Data Visualization**
 - 👯 Open to **AI / ML & Open-Source collaborations**
 - 🤔 Exploring **real-world AI problem solving**
-- 💬 Ask me about **Python, Machine Learning, Data Analysis**
+- 💬 Ask me about **Python, ML, Data Analysis**
 - 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: *I turn curiosity into code* 🚀
+- ⚡ Fun fact: *I turn curiosity into code*
 
 ---
 
@@ -30,23 +31,23 @@ AI & Data Analytics Student | Aspiring AI Engineer @ St. Joseph’s College, Tri
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahayasavari">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/40/linkedin.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/_ITZ_ME_SANTHOZ">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/40/instagram-new.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/ITZMESANTHOZ">
-    <img src="https://img.icons8.com/fluency/48/facebook-new.png"/>
+    <img src="https://img.icons8.com/fluency/40/facebook-new.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/_Itz_me_santhoz">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png"/>
+    <img src="https://img.icons8.com/color/40/twitterx--v1.png"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:sahayasavari.info@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png"/>
+    <img src="https://img.icons8.com/fluency/40/gmail.png"/>
   </a>
 </p>
 
@@ -54,53 +55,34 @@ AI & Data Analytics Student | Aspiring AI Engineer @ St. Joseph’s College, Tri
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+**Languages**
+- Python, C
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+**AI / ML**
+- Machine Learning, Deep Learning  
+- Scikit-learn, TensorFlow
 
-### 📊 Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+**Data Analysis**
+- NumPy, Pandas  
+- Matplotlib, Seaborn
 
-### 🌐 Web & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</p>
+**Web & Tools**
+- HTML, CSS  
+- Git, GitHub
 
 ---
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3ABEFE&center=true&vCenter=true&width=800&lines=Code+is+not+just+written%2C+it%E2%80%99s+crafted.;Learning+never+stops+in+tech.;Small+steps+every+day+build+great+systems.;Curiosity+drives+innovation.;Think.+Build.+Improve." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=3ABEFE&center=true&vCenter=true&width=360&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation." />
 </p>
-
-<br>
 
 ---
 
 ## 📌 Summary
 
 AI & Data Analytics student with strong foundations in Python, Machine Learning, and Data Analysis.  
-Experienced in working with structured datasets, implementing ML models, and exploring real-world AI applications.  
-Actively seeking internships and entry-level opportunities in Artificial Intelligence, Machine Learning, and Data Analytics.
+Experienced in working with structured datasets and implementing ML models.  
+Actively seeking internships and entry-level opportunities in AI, ML, and Data Analytics.
 
 <br>
 
@@ -119,5 +101,3 @@ Actively seeking internships and entry-level opportunities in Artificial Intelli
 Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Python Developer,  
 AI Student, Data Science, Entry-Level AI Engineer, Machine Learning Intern,  
 Open Source Contributor, Internship Seeker
-
-
