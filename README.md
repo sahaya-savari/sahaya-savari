@@ -1,6 +1,7 @@
-<!-- Banner 
+<!-- Banner  -->
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%" />
- -->
+
+ <!--
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/banner.gif"
@@ -8,7 +9,7 @@
     width="650"
   />
 </p>
-
+ -->
 <br>
 
 <h1 align="center">Hi 👋 I'm Sahaya Savari</h1>
@@ -20,7 +21,6 @@ AI & Data Analytics Student · Aspiring AI Engineer
 <p align="center">
 <b>St. Joseph’s College, Trichy</b>
 </p>
-
 <p align="center">
 📧 <a href="mailto:sahayasavari.info@gmail.com">sahayasavari.info@gmail.com</a><br>
 💡 Open to internships, collaborations, and real-world AI projects
