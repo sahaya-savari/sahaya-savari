@@ -9,7 +9,6 @@
   />
 </p>
 
-
 <br>
 
 <h1 align="center">Hi 👋 I'm Sahaya Savari</h1>
