@@ -1,11 +1,16 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%" />
 
-<h1 align="center">💫 Hi 👋, I'm Sahaya Savari</h1>
+<br>
+
+<h1 align="center">Hi 👋 I'm Sahaya Savari</h1>
+
+<h2 align="center">
+AI & Data Analytics Student · Aspiring AI Engineer
+</h2>
 
 <p align="center">
-<b>AI & Data Analytics Student</b> | Aspiring AI Engineer<br>
-St. Joseph’s College, Trichy
+<b>St. Joseph’s College, Trichy</b>
 </p>
 
 <p align="center">
@@ -21,7 +26,7 @@ St. Joseph’s College, Trichy
 - 🌱 Learning **Advanced ML, Deep Learning & Data Visualization**
 - 👯 Open to **AI / ML & Open-Source collaborations**
 - 🤔 Exploring **real-world AI problem solving**
-- 💬 Ask me about **Python, ML, Data Analysis**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: *I turn curiosity into code*
 
@@ -31,23 +36,23 @@ St. Joseph’s College, Trichy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sahayasavari">
-    <img src="https://img.icons8.com/fluency/40/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/56/linkedin.png"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_ITZ_ME_SANTHOZ">
-    <img src="https://img.icons8.com/fluency/40/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/56/instagram-new.png"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/ITZMESANTHOZ">
-    <img src="https://img.icons8.com/fluency/40/facebook-new.png"/>
+    <img src="https://img.icons8.com/fluency/56/facebook-new.png"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/_Itz_me_santhoz">
-    <img src="https://img.icons8.com/color/40/twitterx--v1.png"/>
+    <img src="https://img.icons8.com/color/56/twitterx--v1.png"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sahayasavari.info@gmail.com">
-    <img src="https://img.icons8.com/fluency/40/gmail.png"/>
+    <img src="https://img.icons8.com/fluency/56/gmail.png"/>
   </a>
 </p>
 
@@ -55,25 +60,40 @@ St. Joseph’s College, Trichy
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python, C
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+</p>
 
-**AI / ML**
-- Machine Learning, Deep Learning  
-- Scikit-learn, TensorFlow
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+</p>
 
-**Data Analysis**
-- NumPy, Pandas  
-- Matplotlib, Seaborn
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+</p>
 
-**Web & Tools**
-- HTML, CSS  
-- Git, GitHub
+### 🌐 Web & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=3ABEFE&center=true&vCenter=true&width=360&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=3ABEFE&center=true&vCenter=true&width=420&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation." />
 </p>
 
 ---
@@ -82,7 +102,7 @@ St. Joseph’s College, Trichy
 
 AI & Data Analytics student with strong foundations in Python, Machine Learning, and Data Analysis.  
 Experienced in working with structured datasets and implementing ML models.  
-Actively seeking internships and entry-level opportunities in AI, ML, and Data Analytics.
+Actively seeking internships and entry-level opportunities in Artificial Intelligence, Machine Learning, and Data Analytics.
 
 <br>
 
