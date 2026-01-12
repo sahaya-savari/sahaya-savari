@@ -3,7 +3,7 @@
  -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/github.gif"
+    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/banner.gif"
     alt="Hi, I'm Sahaya Savari 👋"
     width="650"
   />
