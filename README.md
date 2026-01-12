@@ -86,19 +86,23 @@ AI & Data Analytics Student | Aspiring AI Engineer @ St. Joseph’s College, Tri
 
 ---
 
+<br>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=3ABEFE&center=true&vCenter=true&width=800&lines=Code+is+not+just+written%2C+it%E2%80%99s+crafted.;Learning+never+stops+in+tech.;Small+steps+every+day+build+great+systems.;Curiosity+drives+innovation.;Think.+Build.+Improve." />
 </p>
 
+<br>
+
 ---
 
-## 📌 Summary 
+## 📌 Summary
 
 AI & Data Analytics student with strong foundations in Python, Machine Learning, and Data Analysis.  
 Experienced in working with structured datasets, implementing ML models, and exploring real-world AI applications.  
 Actively seeking internships and entry-level opportunities in Artificial Intelligence, Machine Learning, and Data Analytics.
 
-
+<br>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" />
@@ -111,8 +115,9 @@ Actively seeking internships and entry-level opportunities in Artificial Intelli
 
 ---
 
-### 🔎 Keywords 
-Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Python Developer,
-AI Student, Data Science, Entry-Level AI Engineer, Machine Learning Intern,
+### 🔎 Keywords
+Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Python Developer,  
+AI Student, Data Science, Entry-Level AI Engineer, Machine Learning Intern,  
 Open Source Contributor, Internship Seeker
+
 
