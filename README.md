@@ -1,15 +1,15 @@
-<!-- Banner  -->
+<!-- Banner 
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" width="100%" />
-
- <!--
+ -->
+ 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/banner.gif"
     alt="Hi, I'm Sahaya Savari 👋"
-    width="650"
+    width="800"
   />
 </p>
- -->
+ 
 <br>
 
 <h1 align="center">Hi 👋 I'm Sahaya Savari</h1>
