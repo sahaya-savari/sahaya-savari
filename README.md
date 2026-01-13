@@ -6,9 +6,9 @@
   <img
     src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/banner.gif"
     alt="Hi, I'm Sahaya Savari 👋"
-    width="800"
   />
 </p>
+
  
 <br>
 
