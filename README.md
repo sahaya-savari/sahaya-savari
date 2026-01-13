@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/banner.gif"
+    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/github.gif"
     alt="Sahaya Savari | AI & ML"
     style="max-width:100%; height:auto;"
   />
@@ -30,6 +30,12 @@ St. Joseph’s College, Trichy
 - 💬 Ask me about **Python, Machine Learning, Data Analysis**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: *I turn curiosity into code*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=3ABEFE&center=true&vCenter=true&width=420&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation." />
+</p>
 
 ---
 
@@ -89,12 +95,6 @@ St. Joseph’s College, Trichy
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=3ABEFE&center=true&vCenter=true&width=420&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation." />
 </p>
 
 ---
