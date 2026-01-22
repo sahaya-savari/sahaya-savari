@@ -33,7 +33,7 @@
 -->
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🔭 Working on **AI, Machine Learning & Data Analytics**
 - 🌱 Learning **Advanced ML, Deep Learning & Data Visualization**
@@ -44,7 +44,7 @@
 
 ---
 
-## 📬 Connect with Me
+# 📬 Connect with Me
 
 <p align="center">
   <!-- LinkedIn -->
@@ -86,15 +86,15 @@
 
 <hr/>
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
 </p>
 
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=flat"/>
@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 📊 Data Analytics
+## 📊 Data Analytics
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
@@ -117,7 +117,7 @@
 
 -->
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night" width="100%"/>
@@ -131,7 +131,7 @@
 
 <hr/>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <hr/>
