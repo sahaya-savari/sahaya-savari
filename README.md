@@ -28,6 +28,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=3ABEFE&center=true&vCenter=true&width=520&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation.;AI+for+real-world+impact." />
 </p>
 
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&width=900&lines=👨‍💻+Hi+there!+👋+I'm+Sahaya+Savari!;Passionate+AI%2FML+enthusiast+%7C+MSc+AI+Student.;Building+strong+programming+fundamentals!;🚀+Eager+to+contribute+to+innovative+tech+solutions!)](https://git.io/typing-svg)
+-->
 ---
 
 ## 🚀 About Me
