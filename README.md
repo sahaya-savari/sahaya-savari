@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Sahaya Savari Frango (Santhosh)</h1>
+<h1 align="center">Hi 👋 I’m Sahaya Savari Frango</h1>
 
 <p align="center">
   AI & Data Analytics Student ● Aspiring AI Engineer ● St. Joseph’s College (Autonomous), Trichy
@@ -25,15 +25,8 @@
 <hr/>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=3ABEFE&center=true&vCenter=true&width=520&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation.;AI+for+real-world+impact."
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=C792E9&center=true&vCenter=true&width=520&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation.;AI+for+real-world+impact." alt="Typing SVG"/>
 </p>
-
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C792E9&width=900&lines=Hi+there!+I'm+Sahaya+Savari;Passionate+AI%2FML+Enthusiast+%7C+MSc+AI+Student;Building+strong+programming+foundations;Eager+to+solve+real-world+problems)](https://git.io/typing-svg)
--->
 
 ---
 
@@ -83,34 +76,32 @@
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="56" height="56" title="Java"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="56" height="56" title="Python"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aiscript" title="Artificial Intelligence"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" title="Scikit-learn"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=aiscript" width="56" height="56" title="Artificial Intelligence"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" title="Scikit-learn"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" title="TensorFlow"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" title="PyTorch"/>
 </p>
 
 ### 📊 Data Analytics & Visualization
 
 <p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="56" height="56" title="NumPy"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="56" height="56" title="Pandas"/>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="56" height="56" title="Matplotlib"/>
 </p>
-
----
 
 <!--
 ## 📊 LeetCode Statistics
@@ -118,14 +109,12 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sahaya_savari?theme=dark&font=Ubuntu&ext=heatmap)
 -->
 
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
 <div align="center">
