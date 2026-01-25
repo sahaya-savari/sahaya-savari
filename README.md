@@ -83,30 +83,38 @@
     <img src="https://img.icons8.com/fluency/56/gmail.png" alt="Email"/>
   </a>
 </p>
-
 <hr/>
 
 # 🛠️ Tech Stack
 
 ## 👨‍💻 Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ## 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=flat"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aiscript" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
 ## 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ---
