@@ -110,20 +110,38 @@
 -->
 
 ---
+## 📊 GitHub Stats
 
-## 📈 GitHub Activity
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=sahaya-savari&show_icons=true&theme=tokyonight&hide_border=true"
+        width="100%"
+      />
+    </td>
+    <td width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaya-savari&layout=compact&theme=tokyonight&hide_border=true"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night" width="100%" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
 </p>
 
-<!--
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake"/>
-</div>
--->
-<hr/>
 
 ## ✍️ Random Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  ⭐ Show some 🤍 by starring some of my repositories!
+</p>
+
