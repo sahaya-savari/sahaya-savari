@@ -117,10 +117,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaya-savari&theme=tokyo-night" width="100%" alt="GitHub Activity Graph"/>
 </p>
 
+<!--
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Contribution Snake"/>
 </div>
-
+-->
 <hr/>
 
 ## ✍️ Random Developer Quote
