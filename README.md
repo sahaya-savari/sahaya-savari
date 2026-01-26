@@ -8,27 +8,33 @@
 
 <h1 align="center">Hi 👋 I’m Sahaya Savari Frango</h1>
 
+
 <p align="center">
   AI & Data Analytics Student ● Aspiring AI Engineer ● St. Joseph’s College (Autonomous), Trichy
 </p>
 
-<!--
-<p align="center">
-  📧 <a href="mailto:sahayasavari.info@gmail.com">sahayasavari.info@gmail.com</a>
-</p>
--->
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahaya-savari&style=flat-square&color=0A66C2" alt="Profile Views"/>
-</p>
 
-<hr/>
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=CyberVerve07&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/CyberVerve07?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/CyberVerve07?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Stars"/>
+  
+</div>
+
+
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=C792E9&center=true&vCenter=true&width=520&lines=Think.+Build.+Improve.;Learning+never+stops.;Curiosity+drives+innovation.;AI+for+real-world+impact." alt="Typing SVG"/>
 </p>
 
----
+<!-- Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🚀 About Me
 
