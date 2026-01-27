@@ -15,12 +15,11 @@
 
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=sahaya-savari&label=PROFILE+VIEWS&style=for-the-badge&color=00ff41" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sahaya-savari?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/sahaya-savari?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="Stars"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sahaya-savari&label=PROFILE+VIEWS&style=for-the-badge&color=00ff41" />
+  <img src="https://img.shields.io/github/followers/sahaya-savari?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/sahaya-savari?label=STARS&style=for-the-badge&color=00ff41&labelColor=0d1117" />
 </div>
+
 
 
 
