@@ -71,32 +71,56 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" width="56" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="56" />
-</p>
+<table width="110%" style="margin-left:-5%;">
+  <tr>
+    <th align="left" width="35%" style="padding:22px 20px; font-size:18px;">
+      Category
+    </th>
+    <th align="left" width="65%" style="padding:22px 20px; font-size:18px;">
+      Technologies
+    </th>
+  </tr>
 
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" width="56" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="56" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" width="56" />
-</p>
+  <tr>
+    <td valign="middle" style="padding:35px 20px; font-size:17px;">
+      <b>Programming Languages</b>
+    </td>
+    <td valign="middle" style="padding:35px 20px;">
+      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
+        <img src="https://skillicons.dev/icons?i=java" width="55" height="55"/>
+        <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/>
+      </div>
+    </td>
+  </tr>
 
-### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="56" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="56" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="56" />
-</p>
+  <tr>
+    <td valign="middle" style="padding:35px 20px; font-size:17px;">
+      <b>AI & Machine Learning</b>
+    </td>
+    <td valign="middle" style="padding:35px 20px;">
+      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
+        <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/>
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/>
+        <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55"/>
+      </div>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td valign="middle" style="padding:35px 20px; font-size:17px;">
+      <b>Data Analytics & Visualization</b>
+    </td>
+    <td valign="middle" style="padding:35px 20px;">
+      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
+        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="55" height="55"/>
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="55" height="55"/>
+        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="55" height="55"/>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<hr/>
 
 ## 📊 GitHub Stats
 
