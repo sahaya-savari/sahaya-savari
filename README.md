@@ -42,28 +42,28 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sahayasavari">
-    <img src="https://img.icons8.com/fluency/56/linkedin.png" />
+  <a href="https://www.linkedin.com/in/sahayasavari" target="_blank">
+    <img src="https://img.icons8.com/fluency/56/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/sahaya_savari/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="56" />
+
+  <a href="https://leetcode.com/sahaya_savari/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="56" alt="LeetCode"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ITZ_ME_SANTHOZ">
-    <img src="https://img.icons8.com/fluency/56/instagram-new.png" />
+
+  <a href="https://sahayasavari.me" target="_blank">
+    <img src="https://img.icons8.com/fluency/56/domain.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ITZMESANTHOZ">
-    <img src="https://img.icons8.com/fluency/56/facebook-new.png" />
+
+  <a href="https://x.com/_Itz_me_santhoz" target="_blank">
+    <img src="https://img.icons8.com/color/56/twitterx--v1.png" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/_Itz_me_santhoz">
-    <img src="https://img.icons8.com/color/56/twitterx--v1.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:sahayasavari.info@gmail.com">
-    <img src="https://img.icons8.com/fluency/56/gmail.png" />
+    <img src="https://img.icons8.com/fluency/56/gmail.png" alt="Email"/>
   </a>
 </p>
 
