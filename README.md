@@ -69,58 +69,80 @@
 
 <hr/>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <table width="110%" style="margin-left:-5%;">
   <tr>
-    <th align="left" width="35%" style="padding:22px 20px; font-size:18px;">
+    <th align="left" width="35%">
       Category
     </th>
-    <th align="left" width="65%" style="padding:22px 20px; font-size:18px;">
+    <th align="left" width="65%">
       Technologies
     </th>
   </tr>
 
   <tr>
-    <td valign="middle" style="padding:35px 20px; font-size:17px;">
-      <b>Programming Languages</b>
-    </td>
-    <td valign="middle" style="padding:35px 20px;">
-      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
-        <img src="https://skillicons.dev/icons?i=java" width="55" height="55"/>
-        <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/>
-      </div>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java,javascript" />
     </td>
   </tr>
 
   <tr>
-    <td valign="middle" style="padding:35px 20px; font-size:17px;">
-      <b>AI & Machine Learning</b>
-    </td>
-    <td valign="middle" style="padding:35px 20px;">
-      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
-        <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/>
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/>
-        <img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55"/>
-      </div>
+    <td><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+      <img src="https://xgboost.ai/images/logo/xgboost-logo.png" width="50"/>
     </td>
   </tr>
 
   <tr>
-    <td valign="middle" style="padding:35px 20px; font-size:17px;">
-      <b>Data Analytics & Visualization</b>
+    <td><b>Data Analytics & Visualization</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+      <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="50"/>
     </td>
-    <td valign="middle" style="padding:35px 20px;">
-      <div style="display:flex; gap:22px; align-items:center; flex-wrap:wrap;">
-        <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" width="55" height="55"/>
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" width="55" height="55"/>
-        <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" width="55" height="55"/>
-      </div>
+  </tr>
+
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud, DevOps & Deployment</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,vercel,firebase,render" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend Technologies</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Development Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
     </td>
   </tr>
 </table>
+ 
+----
 
-<hr/>
 
 ## 📊 GitHub Stats
 
