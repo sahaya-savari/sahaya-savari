@@ -1,10 +1,12 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/github.gif?v=2"
+    src="https://raw.githubusercontent.com/sahaya-savari/sahaya-savari/main/assets/github.gif"
     alt="Sahaya Savari GitHub Banner"
     width="100%"
   />
 </p>
+<p align="center">
+  
 
 <h1 align="center">Hi 👋 I’m Sahaya Savari Frango</h1>
 
@@ -52,6 +54,7 @@
 
 - 🔭 Working on **Artificial Intelligence, Machine Learning, and Data Analytics**
 - 🛠️ Building **full-stack apps with FastAPI, Docker, and cloud deployment**, plus **Android apps with Flutter**
+- 📈 Interning as an **SEO and Digital Marketing Intern** at HodoLabs, with 5 real-life projects
 - 🌱 Learning **Advanced Machine Learning, Deep Learning, and Data Visualization**
 - 🤝 Open to **AI/ML research, projects, and open-source collaboration**
 - 🧠 Interested in **real-world problem solving using AI**
@@ -110,7 +113,7 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>My Portfolio</h3>
+      <h3>Portfolio</h3>
       <b>AI portfolio & case studies</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,firebase" height="34" />
@@ -149,6 +152,20 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+| Achievement | Event | Details |
+| --- | --- | --- |
+| **Overall Champion** | AIxcelerate 2026 · Dhanalakshmi Srinivasan University | Team NelSync AI (DIT-029) won against 66 teams with a smart paddy procurement optimization system (predict, optimize, schedule, monitor). My role: first pitch deck, research, team coordination, and Q&A prep. [MVP demo](https://lnkd.in/ghBUvf4P) |
+| **Quiz Winner** | BOOTFEST-2K26 · Bishop Heber College (Autonomous) | Intercollegiate technical symposium, 12 March 2026 |
+| **Capture The Flag Runner-up** | BOOTFEST-2K26 · Bishop Heber College (Autonomous) | Intercollegiate technical symposium, 12 March 2026 |
+| **Interdepartmental Contest Winner** | Achievers Day | Certificate of Merit |
+| **Event In-Charge** | AION 2K26 | Treasure Titans |
+
+**Certifications:** IBM Data Analyst Specialization · Yuva AI for All · Introduction to Machine Learning (Tamil) · Web Development and Software Engineering (HodoLabs)
 
 ---
 
@@ -220,6 +237,14 @@
     <td><b>Mobile Development</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=flutter,dart" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>SEO & Digital Marketing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SEO-21262d?style=flat" />
+      <img src="https://img.shields.io/badge/Digital%20Marketing-21262d?style=flat" />
     </td>
   </tr>
 
