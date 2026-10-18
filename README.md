@@ -52,7 +52,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://sahayasavari.me" target="_blank">
+  <a href="https://sahayasavari.dev" target="_blank">
     <img src="https://img.icons8.com/fluency/56/domain.png" alt="Portfolio"/>
   </a>
   &nbsp;&nbsp;&nbsp;
